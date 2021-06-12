@@ -17,7 +17,10 @@ On acceptance of the meeting invitation, the video meeting will start using the 
 
 This Jitsi Meet client provides the facilities like 
 - switch sound devices
-- invite more people to the meeting, audio-only mode, toggle camera, tile view in case of more people. 
+- invite more people to the meeting
+- audio-only mode
+- toggle camera
+- tile view in case of more people. 
 
 
 
